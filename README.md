@@ -1,6 +1,6 @@
 # arcana
 
-finally, an AQW botting client for macOS (including Apple Silicon).
+finally, an AQW botting client specifically for macOS users (and works on Apple Silicon)
 
 # compatibility
 
@@ -8,7 +8,7 @@ as long as you are using some modern verison of macOS, you'll probably be able t
 
 # scripting
 
-scripts will be implemented through lua via [fengari](https://fengari.io).
+scripts will be implemented in lua via [fengari](https://fengari.io). the runtime is subpar is expected to be improved through various iterations.
 
 # credits
 
